@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=discord,vscode,bash,github,c,cpp,html,css,aws,docker,wordpress,nginx)](https://skillicons.dev)
+## Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,github,c,cpp,html,css,aws,docker,wordpress,nginx)](https://skillicons.dev)
 
 ## Planning to learn
 [![My Skills](https://skillicons.dev/icons?i=py,unity,unreal,ps,php,nodejs,figma,js)](https://skillicons.dev)
