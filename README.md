@@ -1,24 +1,24 @@
 # Techstack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php)](https://skillicons.dev)
-##### Front-end
+### Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react)](https://skillicons.dev)
-##### Back-end
+### Back-end
 [![My Skills](https://skillicons.dev/icons?i=express,angular,django,laravel)](https://skillicons.dev)
-## Database
+### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
-## DevOps
+### DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker,nodejs)](https://skillicons.dev)
-## API
+### API
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-## Cloud
+### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,googlecloud,firebase)](https://skillicons.dev)
-## Version Control
+### Version Control
 [![My Skills](https://skillicons.dev/icons?i=github,bitbucket)](https://skillicons.dev)
-## Design
+### Design
 [![My Skills](https://skillicons.dev/icons?i=figma,blender,ps)](https://skillicons.dev)
-## Game
+### Game
 [![My Skills](https://skillicons.dev/icons?i=unity,godot,unreal)](https://skillicons.dev)
-## Others
+### Others
 [![My Skills](https://skillicons.dev/icons?i=vscode,bash,wordpress,nginx)](https://skillicons.dev)
 
 <p>
