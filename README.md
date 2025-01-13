@@ -1,8 +1,8 @@
 # Techstack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,php)](https://skillicons.dev)
-Front-end
+##### Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react)](https://skillicons.dev)
-Back-end
+##### Back-end
 [![My Skills](https://skillicons.dev/icons?i=express,angular,django,laravel)](https://skillicons.dev)
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
