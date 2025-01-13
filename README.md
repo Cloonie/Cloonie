@@ -1,18 +1,21 @@
-### Hi there 👋
-
-## Techstack
-[![My Skills](https://skillicons.dev/icons?i=unity,vscode,bash,github,c,cpp,html,css,js,py,django,postgres,aws,docker,wordpress,nginx,php,figma)](https://skillicons.dev)
-# Front-end
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue)](https://skillicons.dev)
-# Back-end
+# Techstack
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,c,cpp,py,php,wordpress,nginx)](https://skillicons.dev)
+## Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react)](https://skillicons.dev)
+## Back-end
 [![My Skills](https://skillicons.dev/icons?i=django,express,angular)](https://skillicons.dev)
-# Database
-# DevOps
-# Cloud
-# Version Control
-# Design
-# Game
-[![My Skills](https://skillicons.dev/icons?i=unity,vscode,bash,github,c,cpp,html,css,js,py,django,postgres,aws,docker,wordpress,nginx,php,figma)](https://skillicons.dev)
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+## DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,nodejs)](https://skillicons.dev)
+## Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,googlecloud)](https://skillicons.dev)
+## Version Control
+[![My Skills](https://skillicons.dev/icons?i=github,bitbucket)](https://skillicons.dev)
+## Design
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+## Game
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,plasticscm)](https://skillicons.dev)
 
 ## Planning to learn
 [![My Skills](https://skillicons.dev/icons?i=unreal,ps,nodejs,vuejs,expressjs,typescript,mongodb,angular)](https://skillicons.dev)
