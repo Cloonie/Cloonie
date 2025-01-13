@@ -7,9 +7,9 @@
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nodejs,npm)](https://skillicons.dev)
 ### API
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,rest)](https://skillicons.dev)
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,googlecloud,firebase)](https://skillicons.dev)
 ### Version Control
