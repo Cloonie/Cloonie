@@ -19,7 +19,7 @@
 ### Game
 [![My Skills](https://skillicons.dev/icons?i=unity,godot,unreal)](https://skillicons.dev)
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=vscode,bash,powershell,vim,nano,wordpress,nginx,debian,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,powershell,vim,wordpress,nginx,debian,ubuntu)](https://skillicons.dev)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Cloonie&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="455px" alt="Cloonie" />
