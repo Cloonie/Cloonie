@@ -2,6 +2,17 @@
 
 ## Techstack
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,bash,github,c,cpp,html,css,js,py,django,postgres,aws,docker,wordpress,nginx,php,figma)](https://skillicons.dev)
+# Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue)](https://skillicons.dev)
+# Back-end
+[![My Skills](https://skillicons.dev/icons?i=django,express,angular)](https://skillicons.dev)
+# Database
+# DevOps
+# Cloud
+# Version Control
+# Design
+# Game
+[![My Skills](https://skillicons.dev/icons?i=unity,vscode,bash,github,c,cpp,html,css,js,py,django,postgres,aws,docker,wordpress,nginx,php,figma)](https://skillicons.dev)
 
 ## Planning to learn
 [![My Skills](https://skillicons.dev/icons?i=unreal,ps,nodejs,vuejs,expressjs,typescript,mongodb,angular)](https://skillicons.dev)
